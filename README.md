@@ -77,5 +77,3 @@ Resposta de erro (campo ausente):
 }
 
 ---
-
-Depois de subir o repositório, cole no campo do exercício o link real do seu GitHub e, em seguida, o conteúdo do README acima (ajustando o link do git clone para o seu link verdadeiro).
