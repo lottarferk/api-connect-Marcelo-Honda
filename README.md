@@ -10,7 +10,7 @@ API REST desenvolvida como MVP para a gestão de usuários de uma plataforma de 
 ## Como executar o projeto localmente
 
 1. Clone o repositório:
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/lottarferk/api-connect-Marcelo-Honda
 
 2. Acesse a pasta do projeto:
 cd api-connect
