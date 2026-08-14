@@ -1,23 +1,3 @@
-Essa etapa pede duas coisas que dependem de você fazer na sua máquina/conta: criar o repositório no GitHub de verdade e colar aqui o link real dele. Isso eu não posso fazer por você, mas posso te dar o passo a passo e o conteúdo pronto do README.md para você só copiar e colar.
-
-**1. Criar o arquivo .gitignore na raiz do projeto**
-node_modules
-.env
-
-**2. Inicializar o Git (se ainda não fez) e subir para o GitHub**
-No terminal, dentro da pasta api-connect:
-git init
-git add .
-git commit -m "Primeira versão da API Connect"
-
-Depois, crie um repositório novo no site do GitHub (botão "New repository"), com o nome no padrão api-connect-nome-sobrenome, público, sem inicializar com README (já que você vai enviar o seu). Copie a URL que o GitHub mostrar (algo como https://github.com/seu-usuario/api-connect-nome-sobrenome.git) e rode:
-
-git remote add origin URL_DO_SEU_REPOSITORIO
-git branch -M main
-git push -u origin main
-
-**3. Conteúdo pronto para o README.md**
-
 # API Connect
 
 API REST desenvolvida como MVP para a gestão de usuários de uma plataforma de conexões, permitindo criar, listar, buscar, atualizar e remover registros através de endpoints HTTP.
